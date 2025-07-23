@@ -28,7 +28,21 @@ This is the backend service for the Charging Station Management System built usi
 
 ---
 
-## 📁 Project Structure
+## 📁 Router Structure (Backend) : -
+user login/signup :-
+
+router.post('/register', register);
+router.post('/login', login);
+
+charging station curd :-
+
+router.post('/createStation', auth, createStation);
+router.get('/', auth, getStations);
+router.put('/:id', auth, updateStation);
+router.delete('/:id', auth, deleteStation);
+
+working on localhost 3009 (backend)
+
 # frontend :- in vue js
 # chargingStation
 
