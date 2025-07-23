@@ -60,3 +60,14 @@ npm run dev
 npm run build
 ```
 
+
+
+### Also uses leaflet for open source map 
+
+## screenshot of the output ui : --
+<img width="1440" height="900" alt="Screenshot 2025-07-23 at 6 42 42 PM" src="https://github.com/user-attachments/assets/cee6fbb5-46d4-4593-9da9-6067722b44ae" />
+
+<img width="1440" height="900" alt="Screenshot 2025-07-23 at 6 42 45 PM" src="https://github.com/user-attachments/assets/c4a06ee7-877a-40d1-b1ec-61e9713ff013" />
+
+
+
