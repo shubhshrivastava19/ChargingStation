@@ -65,9 +65,7 @@ npm run build
 ### Also uses leaflet for open source map 
 
 ## screenshot of the output ui : --
-<img width="1440" height="900" alt="Screenshot 2025-07-23 at 6 42 42 PM" src="https://github.com/user-attachments/assets/cee6fbb5-46d4-4593-9da9-6067722b44ae" />
-
-<img width="1440" height="900" alt="Screenshot 2025-07-23 at 6 42 45 PM" src="https://github.com/user-attachments/assets/c4a06ee7-877a-40d1-b1ec-61e9713ff013" />
-
+<img width="1440" height="707" alt="Screenshot 2025-07-23 at 6 53 59 PM" src="https://github.com/user-attachments/assets/876d64b5-7f78-4a4d-9bdc-c3f54cc03a41" />
+<img width="1440" height="669" alt="Screenshot 2025-07-23 at 6 53 39 PM" src="https://github.com/user-attachments/assets/28768c89-e42e-4e01-ba25-93d9f26e7ecb" />
 
 
