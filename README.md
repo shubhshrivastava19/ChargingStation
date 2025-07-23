@@ -1,11 +1,11 @@
 # ChargingStation Backend 
-# ⚡ Charging Station Management System (Backend)
+#  Charging Station Management System (Backend)
 
 This is the backend service for the Charging Station Management System built using **Node.js**, **Express.js**, and **MongoDB**. It provides RESTful APIs to manage users, charging stations, and their details.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration & login with JWT authentication
 - CRUD operations for charging stations
@@ -15,7 +15,7 @@ This is the backend service for the Charging Station Management System built usi
 
 ---
 
-## 🧾 Tech Stack
+##  Tech Stack
 
 - **Node.js**
 - **Express.js**
